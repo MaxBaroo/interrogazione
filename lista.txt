@@ -1,1 +1,2 @@
-pomodori,pasta,uova
+pomodori,pasta,uova,latte,soia
+
